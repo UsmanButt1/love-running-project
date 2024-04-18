@@ -142,14 +142,14 @@ main {
     padding: 0 20px;
 }
 
-hr {
-    border-top: 1 px solid #3a3a3a;
+#benefits hr {
+    border-top: 1px solid #3a3a3a;
     margin: 5px 0;
 }
 
 /* Reasons image */
 #circle-cover-bg {
-    background: url("../images/reasons-image.webp") no-repeat top center/cover;
+    background: url('../images/reasons-image.webp') no-repeat top center/cover;
     width: 90vw;
     height: 90vw;
     margin-bottom: 20px;
